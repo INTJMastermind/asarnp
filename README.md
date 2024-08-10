@@ -39,25 +39,25 @@ The only exception is if you are inbound from Canada to the east. The altitudes 
 Some initial approach fixes are not natively in the FMC database. Load the departure and/or approach and they will load into the legs page. 
 These are suggested routes because you may not have charts. The last fix in these routes are an IAF for the respective approach procedures.
 
-PAJN > PAPG GLAZZ1 ODECO
-PAJN > PAKT GLAZZ1 LVD DOOZI
-PAJN > PASI RODMN1 RODMN
-PAJN > PAWG GLAZZ1 LVD
+	PAJN > PAPG GLAZZ1 ODECO
+	PAJN > PAKT GLAZZ1 LVD DOOZI
+	PAJN > PASI RODMN1 RODMN
+	PAJN > PAWG GLAZZ1 LVD
 
-PAKT > PAJN DOOZI2 LVD (FUNTR RNW08) (STVNS RNW26)
-PAKT > PAPG DOOZI2 LVD 
-PAKT > PASI UDENE3 FLIPS
-PAKT > PAWG DOOZI2 (DOOZI RNW 28) (LVD RNW 10)
+	PAKT > PAJN DOOZI2 LVD (FUNTR RNW08) (STVNS RNW26)
+	PAKT > PAPG DOOZI2 LVD 
+	PAKT > PASI UDENE3 FLIPS
+	PAKT > PAWG DOOZI2 (DOOZI RNW 28) (LVD RNW 10)
 
-PAPG > PAJN GORBY4 GORBY STVNS
-PAPG > PAKT HURAS2 LVD DOOZI
-PAPG > PASI GORBY4 GORBY FLIPS
-PAPG > PAWG HURAS2 MITKF
+	PAPG > PAJN GORBY4 GORBY STVNS
+	PAPG > PAKT HURAS2 LVD DOOZI
+	PAPG > PASI GORBY4 GORBY FLIPS
+	PAPG > PAWG HURAS2 MITKF
 
-PAWG > PAJN KAJBU5 KAJBU STVNS (Expedite climb through 6000, RNW 28)
-PAWG > PAKT KAJBU5 KAJBU DOOZI (Expedite climb through 6000, RNW 28)
-PAWG > PAPG KAJBU5 KAJBU
-PAWG > PASI KAJBU5 KAJBU LVD FLIPS
+	PAWG > PAJN KAJBU5 KAJBU STVNS (Expedite climb through 6000, RNW 28)
+	PAWG > PAKT KAJBU5 KAJBU DOOZI (Expedite climb through 6000, RNW 28)
+	PAWG > PAPG KAJBU5 KAJBU
+	PAWG > PASI KAJBU5 KAJBU LVD FLIPS
 
 
 Procedure Minimums. These are not the exact numbers but are close. 
